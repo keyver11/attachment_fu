@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add docs guide terminal images (#8819)
