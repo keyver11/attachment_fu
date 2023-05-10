@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
