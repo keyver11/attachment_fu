@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
