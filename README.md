@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Move Explorer tests to scheduled CI (#8305)
