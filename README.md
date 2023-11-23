@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+New HUB Cloud Training docs page (#8174)
