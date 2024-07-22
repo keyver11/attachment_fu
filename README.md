@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix device counting method to account for double-digit device IDs (#8502)
